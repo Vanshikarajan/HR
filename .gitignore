@@ -1,0 +1,19 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# JavaScript
+node_modules/
+dist/
+
+# Local files
+.DS_Store
+Thumbs.db
